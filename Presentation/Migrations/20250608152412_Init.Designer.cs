@@ -11,7 +11,7 @@ using Presentation.Data;
 namespace Presentation.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250607125804_Init")]
+    [Migration("20250608152412_Init")]
     partial class Init
     {
         /// <inheritdoc />
